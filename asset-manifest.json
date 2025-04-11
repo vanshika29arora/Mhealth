@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Mhealth/static/css/main.b8a41789.css",
-    "main.js": "/Mhealth/static/js/main.64cdcbb2.js",
+    "main.js": "/Mhealth/static/js/main.530e5f42.js",
     "static/js/453.bac1db9b.chunk.js": "/Mhealth/static/js/453.bac1db9b.chunk.js",
     "index.html": "/Mhealth/index.html",
     "main.b8a41789.css.map": "/Mhealth/static/css/main.b8a41789.css.map",
-    "main.64cdcbb2.js.map": "/Mhealth/static/js/main.64cdcbb2.js.map",
+    "main.530e5f42.js.map": "/Mhealth/static/js/main.530e5f42.js.map",
     "453.bac1db9b.chunk.js.map": "/Mhealth/static/js/453.bac1db9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8a41789.css",
-    "static/js/main.64cdcbb2.js"
+    "static/js/main.530e5f42.js"
   ]
 }
