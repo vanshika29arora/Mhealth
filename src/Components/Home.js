@@ -90,8 +90,7 @@ const Home = () => {
         <div className="right-section">
           <div className="adaptive-grid">
             <div className="grid-item">
-<img src="https://vanshika29arora.github.io/Mhealth/pic/m1.jpg" alt="m1" />
- </div>
+<img alt="m1" src="https://vanshika29arora.github.io/Mhealth/pic/m1.jpg"> </div>
             <div className="grid-item">
               <img src="/pic/m2.jpg" alt="t" />
             </div>
